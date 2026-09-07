@@ -2,7 +2,7 @@
 
 A premium, single-page digital identity card — inspired by **Linktree Pro** and **Bento.me** — built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step, no dependencies to install. Just open it in a browser.
 
-**Live demo:** [ashutoshpalhare.github.io/BioLinksV2](https://ashutoshpalhare.github.io/BioLinksV2/)
+**Live demo:** [ashutoshpalhare.github.io/BioLinks](https://ashutoshpalhare.github.io/BioLinks/)
 
 ![Made with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Made with CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -69,7 +69,7 @@ A centered glassmorphic card floating over an animated aurora background — ava
 No build tools, no `npm install` — just clone and open.
 
 ```bash
-git clone https://github.com/ashutoshpalhare/BioLinksV2.git
+git clone https://github.com/ashutoshpalhare/BioLinks.git
 cd BioLinks
 ```
 
